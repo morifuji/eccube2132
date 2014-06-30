@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="192.168.56.10(eccube2132)">
+    <serverData>
+      <paths name="192.168.56.10(eccube2132)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/data/cache" />
+            <excludedPath path="/data/downloads/tmp" />
+            <excludedPath path="/data/downloads/backup" />
+            <excludedPath path="/data/Smarty/templates_c" />
+            <excludedPath path="/data/upload/csv" />
+            <excludedPath path="/html/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/data/cache" />
+            <excludedPath local="true" path="$PROJECT_DIR$/data/downloads/tmp" />
+            <excludedPath local="true" path="$PROJECT_DIR$/data/downloads/backup" />
+            <excludedPath local="true" path="$PROJECT_DIR$/data/Smarty/templates_c" />
+            <excludedPath local="true" path="$PROJECT_DIR$/data/upload/csv" />
+            <excludedPath local="true" path="$PROJECT_DIR$/html/upload" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
+
